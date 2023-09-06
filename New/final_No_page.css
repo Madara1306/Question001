@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(211, 6, 6);
+  margin-top: 20%;
+}
+.buttoncontainer {
+  align-items: center; /* Center horizontally */
+}
+h1 {
+  font-size: 450%;
+  color: black;
+  text-align: center;
+}
